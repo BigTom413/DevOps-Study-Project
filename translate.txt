@@ -1,0 +1,4 @@
+This is a basic translation file for testing
+It has multiple lines
+in english
+because that's the base language
