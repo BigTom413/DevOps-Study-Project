@@ -1,4 +1,6 @@
-"First": "This is a basic translation file for testing"
-"Second": "It has multiple lines"
-"Third": "in english"
-"Fourth": "because that's the base language"
+{
+  "First": "This is a basic translation file for testing"
+  "Second": "It has multiple lines"
+  "Third": "in english"
+  "Fourth": "because that's the base language"
+}
